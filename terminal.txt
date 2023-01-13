@@ -1,0 +1,12 @@
+HW_Terminal
+
+1. Посмотреть, где я:
+   -pwd
+
+2. Создать папку:
+   -mkdir folder_name
+
+3. Перейти в папку:
+
+   -cd folder_name
+
